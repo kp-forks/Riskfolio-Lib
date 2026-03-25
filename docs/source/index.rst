@@ -3,7 +3,16 @@ Riskfolio-Lib
 #############
 
 .. meta::
-   :description lang=en: Portfolio Optimization in Python
+    :keywords: python portfolio optimization,
+               quantitative finance,
+               risk management,
+               portfolio backtesting,
+               algorithmic trading,
+               robust optimization,
+               financial modeling,
+               riskfolio
+
+    :description: Documentation of Riskfolio-Lib a Python library for Portfolio Optimization.
 
 ..........................................................
 Portfolio Optimization in Python, Easy for Everyone
@@ -37,7 +46,7 @@ Portfolio Optimization in Python, Easy for Everyone
     :width: 45%
 
 .. image:: https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86
- :target: https://github.com/sponsors/dcajasn
+    :target: https://github.com/sponsors/dcajasn
 
 .. raw:: html
    
